@@ -10,11 +10,11 @@
 - [Material Dashboard - Django](https://appseed.us/admin-dashboards/django-dashboard-material), a free product coded on top of a Creative-Tim design
 - [Material Dashboard - AdminLTE Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - a Flask starter coded on top of [AdminLTE](https://appseed.us/adminlte)
 - [Material Dashboard - AdminLTE Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - a Flask starter coded on top of [AdminLTE](https://appseed.us/adminlte)
-- [Material Dashboard - CoreUI Flask](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - a Flask starter coded on top of CoreUI design
-- [Material Dashboard - CoreUI Django](https://appseed.us/admin-dashboards/django-dashboard-coreui) - a Flask starter coded on top of CoreUI design
+- [Material Dashboard - CoreUI Flask](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - a Flask starter coded on top of [CoreUI](https://appseed.us/agency/coreui) design
+- [Material Dashboard - CoreUI Django](https://appseed.us/admin-dashboards/django-dashboard-coreui) - a Flask starter coded on top of [CoreUI](https://appseed.us/agency/coreui) design
 - [Material Dashboard - Jinja template](https://github.com/app-generator/jinja-template-material-dashboard) - Material design as a Jinja project
-- [Material Dashboard - Jinja Sb Admin 3](https://github.com/app-generator/jinja-template-sb-admin) - Material design as a Jinja project
-- [Material Dashboard - Jinja Sb Admin 2](https://github.com/app-generator/jinja-template-sb-admin-2) - Material design as a Jinja project
+- [Material Dashboard - Jinja Sb Admin 3](https://github.com/app-generator/jinja-template-sb-admin) - design provided by StartBootstrap (latest version)
+- [Material Dashboard - Jinja Sb Admin 2](https://github.com/app-generator/jinja-template-sb-admin-2) - design provided by StartBootstrap (legacy version)
 
 <br />
 
