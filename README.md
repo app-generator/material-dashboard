@@ -45,7 +45,7 @@ Material Dashboard comes with 5 color filter choices for both the sidebar and th
 
 <br />
 
-[Material Dashboard - Django](https://appseed.us/admin-dashboards/django-dashboard-material)
+## [Material Dashboard - Django](https://appseed.us/admin-dashboards/django-dashboard-material)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** - Features:
 
