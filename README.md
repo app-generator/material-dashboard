@@ -15,6 +15,7 @@
 - [Material Dashboard - Jinja template](https://github.com/app-generator/jinja-template-material-dashboard) - Material design as a Jinja project
 - [Material Dashboard - Jinja Sb Admin 3](https://github.com/app-generator/jinja-template-sb-admin) - design provided by StartBootstrap (latest version)
 - [Material Dashboard - Jinja Sb Admin 2](https://github.com/app-generator/jinja-template-sb-admin-2) - design provided by StartBootstrap (legacy version)
+- [Material Dashboard - Jinja AdminLTE](https://github.com/app-generator/jinja2-adminlte) - the AdminLTE iconic design available in Jinja
 
 <br />
 
@@ -171,7 +172,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 ## [Material Dashboard - Jinja Sb Admin 3](https://github.com/app-generator/jinja-template-sb-admin)
 
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+> Jinja Template project coded on top of Sb Admin **Material Dashboard** design - Features:
 
 - UI Kit: **SB Admin** (Free Version) by **StartBootstrap**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
@@ -190,7 +191,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 ## [Material Dashboard - Jinja Sb Admin 2](https://github.com/app-generator/jinja-template-sb-admin-2)
 
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+> Jinja Template project coded on top of Sb Admin 2 (legacy version) **Material Dashboard** design - Features:
 
 - UI Kit: **Sb Admin 2** (Free Version) by **StartBootstrap**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
@@ -204,6 +205,26 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 <br />
 
 ![Jinja Template - Sb Admin 2 - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-sb-admin-2/master/media/jinja-template-sb-admin-2-screen.png)
+
+<br />
+
+## [Material Dashboard - Jinja AdminLTE](https://github.com/app-generator/jinja2-adminlte)
+
+> Jinja Template project coded on top of AdminLTE **Material Dashboard** design - Features:
+
+- UI Kit: **[AdminLTE](https://appseed.us/adminlte)** by **ColorLib**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - [AdminLTE](https://appseed.us/adminlte)
+
+*Vendor Notes* - [AdminLTE](https://appseed.us/adminlte) is a fully responsive administration template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops
+
+<br />
+
+![Jinja Template - AdminLTE.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
 
 <br />
 
